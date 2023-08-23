@@ -1,0 +1,10 @@
+# ninja log v5
+11	88	7081026552558797	CMakeFiles/Arcade_Machine.dir/number_guessing_game.c.obj	c7f8f89241d3e0c1
+7	83	7081026552488797	CMakeFiles/Arcade_Machine.dir/main.c.obj	cb3647bec9faa8dd
+2	81	7081026552488797	CMakeFiles/Arcade_Machine.dir/rock_paper_scissors.c.obj	70a295fd997f9df0
+88	218	7081026553838881	Arcade_Machine.exe	d1c1be6293b53d6d
+12	101	7145171729235595	CMakeFiles/Arcade_Machine.dir/math_quiz.c.obj	c1ca8df4e89dc660
+5	102	7145171729235595	CMakeFiles/Arcade_Machine.dir/rock_paper_scissors.c.obj	1eed3f728227bec7
+1	102	7145171729225608	CMakeFiles/Arcade_Machine.dir/main.c.obj	7ba16806b2a58f90
+8	102	7145171729235595	CMakeFiles/Arcade_Machine.dir/number_guessing_game.c.obj	49e0a38fbbfcafcc
+102	203	7145171730235585	Arcade_Machine.exe	d3492fc149673978
